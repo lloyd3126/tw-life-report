@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "tw-gov-data": {
+      "source": "lloyd3126/chenchungnien-skills",
+      "sourceType": "github",
+      "computedHash": "04b5306aa2b42750e85b58342ced55369ed563d9545d2193e470785dc153ba8a"
+    }
+  }
+}
